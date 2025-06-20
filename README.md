@@ -70,9 +70,9 @@ You should see files like:
      - `execution_report.json`, `snapshots.json`
      - System info: `uname -a`, `uptime`
 - **Screenshots / Results:**
-  ![EC2 instance online](ec2_verification.png)
-  ![Kafka and Zookeeper online](Kafka_Zookeper_running.png)
-  ![Backtest complete](backtest_running.png)
-  ![Final most optimal results](final_json_stdout.png)
+  ![EC2 instance online](ec2_verification.png "EC2 online")
+  ![Kafka and Zookeeper online](Kafka_Zookeeper_running.png "Kafka+Zookeeper online")
+  ![Backtest complete](backtest_running.png "Backtest complete")
+  ![Final most optimal results](final_json_stdout.png "final results")
 
 
