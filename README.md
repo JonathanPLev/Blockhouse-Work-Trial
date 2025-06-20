@@ -1,5 +1,9 @@
 # Blockhouse Work Trial Repo
 
+### Demo Link:
+`https://youtu.be/djFmEsnZCtE`
+
+
 ## EC2 Deployment (t2.micro with Swap)
 
 We use a **t2.micro** instance (1 GiB RAM) to stay within AWS Free Tier, and add swap to ensure Kafka+Zookeeper can start. Below are step-by-step instructions.
